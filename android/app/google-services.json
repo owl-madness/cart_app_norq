@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729685834497",
+    "project_id": "cart-app-aa3c2",
+    "storage_bucket": "cart-app-aa3c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729685834497:android:bde9f27587de621af13900",
+        "android_client_info": {
+          "package_name": "com.example.cart_app_norq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsm6861et7GMQRemtpzlu9sxQd8Cc9txU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
